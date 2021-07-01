@@ -1,2 +1,2 @@
 # test_repo
-Pdf
+for test repository
